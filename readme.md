@@ -1,1 +1,3 @@
 # ideas
+
+> Centralized place for ideas and todos. Raw, proof of concept implementations and so on...
