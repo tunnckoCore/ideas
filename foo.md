@@ -16,7 +16,7 @@ Build brilliant UI apps, fast & easy.
   <a href="https://david-dm.org/tunnckoCore/mich-to-html"><img src="https://img.shields.io/david/tunnckoCore/resolve-package.svg" alt="david-dm"></a>
 </p>-->
 
-> Resolves a given package if it is installed locally, then tries to resolve it from global registry, using battle-tested [global-modules][] package. Better approach than internal `require.resolve`, so you can trust. You just get absolute filepath to some package - path to its entry point, its main export
+> Chika is sweety little chick in JavaScript world that creates blazing fast & gorgeous apps.
 
 [![code climate][codeclimate-img]][codeclimate-url] 
 [![standard code style][standard-img]][standard-url] 
