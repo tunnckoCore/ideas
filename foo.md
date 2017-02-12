@@ -8,7 +8,7 @@
 Build brilliant UI apps, fast & easy.
 </h1>
 
-> Chika is sweety little chick in JavaScript world that creates blazing fast &amp; gorgeous apps.
+> Chika is sweety little chick in the JavaScript _ecosphere_ that creates blazing fast &amp; gorgeous apps.
 
 <!--<p align="center">
   <a href="https://codeclimate.com/github/tunnckoCore/mich-to-html"><img src="https://img.shields.io/codeclimate/github/tunnckoCore/resolve-package.svg" alt="codeclimate"></a>
