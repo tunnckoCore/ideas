@@ -7,7 +7,10 @@
 <img src="http://www.wallpaperscharlie.com/wp-content/uploads/2016/07/Cute-Girls-HD-Pictures-9.jpg" alt="Chika - Build brilliant UI apps, fast & easy." width="90%" height="90%"><br>
 Build brilliant UI apps, fast & easy.
 </h1>
-<!-- <p align="center">
+
+> Chika is sweety little chick in JavaScript world that creates blazing fast &amp; gorgeous apps.
+
+<!--<p align="center">
   <a href="https://codeclimate.com/github/tunnckoCore/mich-to-html"><img src="https://img.shields.io/codeclimate/github/tunnckoCore/resolve-package.svg" alt="codeclimate"></a>
   <a href="https://github.com/feross/standard"><img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg" alt="codestyle"></a>
   <a href="https://travis-ci.org/tunnckoCore/mich-to-html"><img src="https://img.shields.io/travis/tunnckoCore/resolve-package/master.svg?label=linux" alt="travis"></a>
@@ -15,8 +18,6 @@ Build brilliant UI apps, fast & easy.
   <a href="https://codecov.io/gh/tunnckoCore/mich-to-html"><img src="https://img.shields.io/coveralls/tunnckoCore/resolve-package.svg" alt="codecov"></a>
   <a href="https://david-dm.org/tunnckoCore/mich-to-html"><img src="https://img.shields.io/david/tunnckoCore/resolve-package.svg" alt="david-dm"></a>
 </p>-->
-
-> Chika is sweety little chick in JavaScript world that creates blazing fast & gorgeous apps.
 
 [![code climate][codeclimate-img]][codeclimate-url] 
 [![standard code style][standard-img]][standard-url] 
@@ -26,7 +27,6 @@ Build brilliant UI apps, fast & easy.
 [![dependency status][david-img]][david-url]
 
 _You might also be interested in [mich-h][] - virtual dom builder in just ~500 bytes, compatible with [hyperscript][]._
-
 
 ## Table of Contents
 - [Install](#install)
