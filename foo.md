@@ -1,5 +1,6 @@
 <h1 align="center">Chika 
   <a href="https://www.npmjs.com/package/mich-to-html"><img src="https://img.shields.io/npm/v/resolve-package.svg?style=flat" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/mich-to-html"><img src="https://img.shields.io/npm/l/resolve-package.svg?style=flat" alt="npm version"></a>
   <a href="https://npmjs.org/package/mich-to-html"><img src="https://img.shields.io/npm/dm/resolve-package.svg?style=flat" alt="npm downloads monthly"></a>
   <a href="https://npmjs.org/package/mich-to-html"><img src="https://img.shields.io/npm/dt/resolve-package.svg?style=flat" alt="npm downloads total"></a>
   <br>
